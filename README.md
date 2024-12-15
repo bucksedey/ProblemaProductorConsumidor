@@ -1,4 +1,4 @@
-#Problema Productor Consumidor
+# Problema Productor Consumidor
 El objetivo del programa es implementar un sistema productor-consumidor para gestionar
 pedidos de comida. El programa utiliza hilos (threads), memoria compartida y semáforos para la
 sincronización entre los hilos productor y consumidor. El productor lee pedidos de un archivo de
